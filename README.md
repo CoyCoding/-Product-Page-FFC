@@ -26,6 +26,6 @@ We will accept and try to fix all issue reports that use the suggested technolog
   * User Story #15: My product landing page should utilize CSS flexbox at least once.
   
     # Extra info
- I really like how this page ended up. I would only change a few things features @media too.
+ I really like how this page ended up. Responsive page for both tabet and mobile.
   
 The codepen version of this site can be viewed: [here](https://codepen.io/anon/pen/QBBYbO).
